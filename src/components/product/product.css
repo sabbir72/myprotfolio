@@ -1,10 +1,11 @@
 .p {
   width: 30%;
-  height: 40vh;
+  height: 50vh;
   margin: 20px 10px;
   border: 2px solid rgb(243, 242, 242);
   border-radius: 10px 10px 0px 0px;
   overflow: hidden;
+ 
 }
 
 .p-browser {
@@ -15,7 +16,9 @@
   position: sticky;
   z-index: 2;
 }
-
+.tools{
+  font-size: 12px;
+}
 .p-circle {
   width: 6px;
   height: 6px;
